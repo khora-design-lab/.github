@@ -1,7 +1,7 @@
 # Hi there 👋 We are KHORA!
 
 <div align="center">
-  <img src="https://khora.tr/assets/images/logo.png" alt="KHORA Logo" width="200" onerror="this.src='https://via.placeholder.com/200x100?text=KHORA';"/>
+  <img src="https://khora.tr/_assets/media/c82c8b571190de5132d3d11ef85397a9.png" alt="KHORA Logo" width="200" onerror="this.src='https://via.placeholder.com/200x100?text=KHORA';"/>
   <br/>
   <h3>Revolution in Architecture</h3>
   <p>Design meets Intelligence. Architecture | AI | AR</p>
